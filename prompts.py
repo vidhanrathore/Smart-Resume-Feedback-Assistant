@@ -6,7 +6,7 @@ You are an expert resume reviewer. Analyze the resume below and provide:
 3. Suggested Skills to Add
 4. Formatting Advice
 5. Score out of 100
-
+Keep the above headings short to long as per need and do not add preamble.
 Resume:
 {resume_text}
 """
